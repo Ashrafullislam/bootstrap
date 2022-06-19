@@ -1,0 +1,44 @@
+
+*
+ {
+box-sizing:border-box;
+}
+
+ /* About me section start here */
+.about-img{
+    width: 300px;
+    height: 275px;
+}
+
+.about-me-bg {
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(37,145,251,0.98) 0.1%, rgba(0,7,128,1) 99.8% );
+    height: auto;
+  }
+   
+  /* About me section end here  */
+
+
+  /* Navbar start here */
+
+    .my-link-style{
+      text-decoration: none;
+
+   }
+
+   .my-link-style:hover{
+     text-decoration: underline;
+     background-color: rgb(22, 58, 187);
+   }
+   /* Navbar end here */
+
+
+
+    /* service section start here */
+   abbr[title]{
+    text-decoration: none!important;
+
+}
+ /* service section end  here */
+ 
+
+    
